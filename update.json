@@ -1,0 +1,8 @@
+{
+  "name": "My Test Plugin",
+  "version": "1.0",
+  "download_url": "https://github.com/GhoriOfficial/my-test-plugin/releases/download/v1.0/my-test-plugin.zip",
+  "sections": {
+    "description": "This is a test plugin with update support."
+  }
+}
